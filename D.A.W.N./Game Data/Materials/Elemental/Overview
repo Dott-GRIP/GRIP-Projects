@@ -2,6 +2,7 @@ Element Types:
   Solid
   Liquid
   Gass
+  khann
 Elemental Fusions:
   Combustable
   Meltable
@@ -18,6 +19,12 @@ Primary Elements:
     Type: Gass
 Vital Elements:
   Void
+    Type: khann
   Lumair
+    Type: khann
+    Description: "A light based element centered around the opposing goal of the void element,
+      Lumair is rooted in the presence of omnipotence and power."
   Elysium
+    Type: khann
   Elliss
+    Type: Solid

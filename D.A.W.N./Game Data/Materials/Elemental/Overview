@@ -20,13 +20,17 @@ Primary Elements:
 Vital Elements:
   Void
     Type: khann
-    Description: ""
+    Summarized Name: "Darkness"
+    Description: "A Darkness based element centered around the opposing goal of the lumair element,
+      Void is the absence of all being and the root of all evil"
   Lumair
     Type: khann
+    Summarized Name: "Light"
     Description: "A light based element centered around the opposing goal of the void element,
       Lumair is rooted in the presence of omnipotence and power."
   Elysium
     Type: khann
+    Summarized Name: "Energy"
     Description: "A power based element centered around being a source of pure or impeccable power and energy"
   Elliss
     Type: Solid

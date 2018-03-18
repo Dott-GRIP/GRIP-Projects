@@ -1,8 +1,21 @@
+Element Types:
+  Solid
+  Liquid
+  Gass
+Elemental Fusions:
+  Combustable
+  Meltable
+  Freezable
+  Griddable
 Primary Elements:
   Water
+    Type: Liquid
   Earth
+    Type: Solid
   Fire
+    Type: null-(undecided)
   Air
+    Type: Gass
 Vital Elements:
   Void
   Lumair

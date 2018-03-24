@@ -8,6 +8,8 @@ Elemental Fusions:
   Meltable
   Freezable
   Griddable
+    -A fusion type where one material is able to be forcefully or naturally pushed through another material.
+      i.e. Water through sponge
   Malleable
 Primary Elements:
   Water
